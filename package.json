@@ -1,0 +1,28 @@
+{
+  "name": "mongoose-time",
+  "version": "0.1.0",
+  "description": "A mongoose SchemaType to represent Time of Day.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/samtheprogram/mongoose-time.git"
+  },
+  "keywords": [
+    "mongoose",
+    "schematype",
+    "time",
+    "time-of-day",
+    "date"
+  ],
+  "author": "Sam Moore <samtheprogram@gmail.com>",
+  "license": "Apache-2.0",
+  "peerDependencies": {
+    "mongoose": "^4.10.0"
+  },
+  "devDependencies": {
+    "mongoose": "~4.10.0"
+  }
+}
